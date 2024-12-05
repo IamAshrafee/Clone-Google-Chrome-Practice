@@ -1,0 +1,5 @@
+<svg class="chr-icon chr-icon--24">
+                <title>X</title>
+                <use xlink:href="/chrome/static/images/site-icons.svg#social-twitter"></use>
+                <image src="/chrome/static/images/fallback/icon-twitter.jpg" xlink:href="" alt="X" width="24" height="24" class="svg-fallback"></image>
+                </svg>

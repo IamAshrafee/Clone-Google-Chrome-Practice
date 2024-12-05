@@ -1,0 +1,5 @@
+<svg class="chr-footer__logo-img">
+                <title>Google</title>
+                <use xlink:href="/chrome/static/images/site-icons.svg#google-logo"></use>
+                <image src="/chrome/static/images/fallback/google-footer-logo.jpg" xlink:href="" alt="Google Logo" width="86" height="28" class="svg-fallback"></image>
+                </svg>

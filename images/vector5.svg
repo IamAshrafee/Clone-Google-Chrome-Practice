@@ -1,0 +1,12 @@
+<svg class="chr-heading-pill__background" viewBox="0 0 100 100" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+
+    <defs>
+      <linearGradient id="ai-pill-gradient" x1="0" y1="10" x2="80" y2="80" gradientUnits="userSpaceOnUse">
+        <stop offset="0.00132785" stop-color="#4B96F8"></stop>
+        <stop offset="0.65" stop-color="#DDE3FD"></stop>
+      </linearGradient>
+    </defs>
+<path d="M 0 0 L 100 0 L 0 -50 L 0 100 Z" fill="url(#ai-pill-gradient)">
+      <animate class="chr-heading-pill__morph" attributeName="d" dur="1s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.42 0 0.58 1" from="M 0 0 L 100 0 L 0 -50 L 0 100 Z"></animate>
+    </path>
+  </svg>

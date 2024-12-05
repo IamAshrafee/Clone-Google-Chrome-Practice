@@ -1,0 +1,5 @@
+<svg class="chr-icon chr-icon--24">
+                <title>Help</title>
+                <use xlink:href="/chrome/static/images/site-icons.svg#mi-help"></use>
+                <image src="/chrome/static/images/fallback/icon-help.jpg" xlink:href="" alt="Help" width="20" height="21" class="svg-fallback"></image>
+                </svg>

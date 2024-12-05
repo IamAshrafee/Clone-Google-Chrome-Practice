@@ -1,0 +1,5 @@
+<svg class="chr-icon chr-icon--24">
+                <title>Facebook</title>
+                <use xlink:href="/chrome/static/images/site-icons.svg#social-facebook"></use>
+                <image src="/chrome/static/images/fallback/icon-fb.jpg" xlink:href="" alt="Facebook" width="24" height="24" class="svg-fallback"></image>
+                </svg>

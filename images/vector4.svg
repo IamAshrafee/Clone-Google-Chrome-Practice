@@ -1,0 +1,19 @@
+<svg class="chr-header-v3__logo-icon">
+                <defs>
+                  <linearGradient id="linear-gradient" x1="23.9" y1="1076.02" x2="5.15" y2="1043.54" gradientTransform="translate(0 -1034)" gradientUnits="userSpaceOnUse">
+                    <stop offset="0" stop-color="#1e8e3e"></stop>
+                      <stop offset="1" stop-color="#34a853"></stop>
+                      </linearGradient>
+                      <linearGradient id="linear-gradient-2" x1="18.32" y1="1077.42" x2="37.07" y2="1044.93" gradientTransform="translate(0 -1034)" gradientUnits="userSpaceOnUse">
+                        <stop offset="0" stop-color="#fcc934"></stop>
+                          <stop offset="1" stop-color="#fbbc04"></stop>
+                          </linearGradient>
+                          <linearGradient id="linear-gradient-3" x1="2.87" y1="1047.56" x2="40.19" y2="1047.56" gradientTransform="translate(0 -1034)" gradientUnits="userSpaceOnUse">
+                            <stop offset="0" stop-color="#d93025"></stop>
+                              <stop offset="1" stop-color="#ea4335"></stop>
+                              </linearGradient>
+                            </defs>
+                <title>icon chrome logo</title>
+                <use xlink:href="#color-google-logo-2023"></use>
+                <image src="/chrome/static/images/fallback/chrome-logo-2023.png" xlink:href="" alt="Google Chrome" width="134" height="36" class="svg-fallback"></image>
+                </svg>

@@ -1,0 +1,5 @@
+<svg class="chr-icon chr-icon--24">
+                <title>Youtube</title>
+                <use xlink:href="/chrome/static/images/site-icons.svg#social-youtube"></use>
+                <image src="/chrome/static/images/fallback/icon-youtube.jpg" xlink:href="" alt="Youtube" width="24" height="24" class="svg-fallback"></image>
+                </svg>

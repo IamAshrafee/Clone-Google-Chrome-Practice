@@ -1,0 +1,4 @@
+<svg class="handler-media__icon" role="presentation " aria-hidden="True">
+
+    <use xlink:href="/chrome/static/images/site-icons.svg#play-icon"></use>
+</svg>
